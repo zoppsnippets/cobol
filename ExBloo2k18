@@ -1,0 +1,264 @@
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
+000100 CBL  SOURCE XREF
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. 'mprb05'.
+000400************************************************************
+000500*
+000600*  Read transactions from the message queue
+000700*  and display them (when in debugging mode)
+000710*  Zero delay during the transaction
+000800*
+000900*  Program     mprb05
+001000*  PSB:        mprb05
+001100*  Databases:  none
+001200*  Access:     none
+001300*
+001400************************************************************
+001500 ENVIRONMENT DIVISION.
+001600 CONFIGURATION SECTION.
+001700 SOURCE-COMPUTER.  IBM-370.
+001800*SOURCE-COMPUTER.  IBM-370 with debugging mode.
+001900 OBJECT-COMPUTER.  IBM-370.
+002000 DATA DIVISION.
+002100 WORKING-STORAGE SECTION.
