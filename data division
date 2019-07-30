@@ -1,0 +1,12 @@
+       DATA DIVISION.
+       FILE SECTION.
+      ${1:*TO DO}
+
+       WORKING-STORAGE SECTION.
+      $1
+
+       local-storage section.
+      $1 
+
+       LINKAGE SECTION.
+      $1
