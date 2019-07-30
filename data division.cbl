@@ -3,10 +3,10 @@
       ${1:*TO DO}
 
        WORKING-STORAGE SECTION.
-      $1
+      ${2:*TO DO}
 
        local-storage section.
-      $1 
+      ${3:*TO DO} 
 
        LINKAGE SECTION.
-      $1
+      ${4:*TO DO}
