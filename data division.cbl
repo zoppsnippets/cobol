@@ -1,12 +1,12 @@
        DATA DIVISION.
        FILE SECTION.
-      ${1:*TO DO}
+      ${1:*TODO}
 
        WORKING-STORAGE SECTION.
-      ${2:*TO DO}
+      ${2:*TODO}
 
        local-storage section.
-      ${3:*TO DO} 
+      ${3:*TODO} 
 
        LINKAGE SECTION.
-      ${4:*TO DO}
+      ${4:*TODO}
