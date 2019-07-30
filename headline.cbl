@@ -15,8 +15,8 @@
        ************************************************************
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
-       SOURCE-COMPUTER.  ${3:IBM-370}.
-       OBJECT-COMPUTER.  ${3:IBM-370}.
+       SOURCE-COMPUTER.  ${3:computerID}.
+       OBJECT-COMPUTER.  ${3:computerID}.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 
