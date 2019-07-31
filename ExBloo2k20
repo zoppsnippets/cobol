@@ -1,3 +1,0 @@
-THIS IS A VARIABLE: {$1:firstvar} blablabla
-{$1:changing at the same time}
-This is another variable {$2:secondvar}
