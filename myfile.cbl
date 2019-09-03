@@ -1,0 +1,1 @@
+Contribution to IBM through a DevOps strategy with different stakes
